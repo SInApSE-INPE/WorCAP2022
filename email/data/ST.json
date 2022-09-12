@@ -1,7 +1,104 @@
 [
     {
-        "name": "Natienny Júlia Teixeira Ervilha ",
-        "email": "natiervilha@gmail.com",
-        "title": ""
+        "name": "Yuri Domaradzki Moreira Nunes",
+        "email": "yuridomaradzki@gmail.com",
+        "title": "PROPOSTA DE INTEGRAÇÃO DE SISTEMAS PARA GERAÇÃO DE UM SERVIÇO DE PRODUÇÃO DE MAPAS DE AGRICULTURA"
+    },
+
+    {
+        "name": "Carlos Henrique Fernandes Cesconeto",
+        "email": "carloshcesconeto@hotmail.com",
+        "title": "OTIMIZAÇÃO NÃO LINEAR PARA SUBSISTEMA DE ENERGIA"
+    },
+
+    {
+        "name": "Regina Paiva Melo Marin",
+        "email": "rpmmarin@gmail.com",
+        "title": "ANÁLISE SOBRE HÁBITOS E PADRÕES EM SENHAS"
+    },
+
+    {
+        "name": "Moisés José dos Santos Freitas",
+        "email": "moisesfreitas1@outlook.com",
+        "title": "SIMULAÇÃO DE CINTILAÇÃO IONOSFÉRICA COM REDES NEURAIS"
+    },
+
+    {
+        "name": "Rubens Andreas Sautter",
+        "email": "rubens.sautter@gmail.com",
+        "title": "GRADIENT PATTERN ANALYSIS OF THE SOLAR ACTIVE REGION NOAA 11131"
+    },
+
+    {
+        "name": "Abner Ernâni dos Anjos",
+        "email": "abiner.anjos@gmail.com",
+        "title": "INTEGRANDO MÉTODOS DE ANÁLISE DURANTE A COLETA DE AMOSTRAS DE USO E COBERTURA DA TERRA"
+    },
+
+    {
+        "name": "Nathan Augusto Zacarias Xavier",
+        "email": "nathazx@gmail.com",
+        "title": "ODOMETRIA INERCIAL POR REDE NEURAL PARA VANTS EM VÔOS OUTDOOR"
+    },
+
+    {
+        "name": "Luís Eduardo Sales do Nascimento",
+        "email": "luis.esnascimento@gmail.com",
+        "title": "DETECÇÃO E CLASSIFICAÇÃO DE ONDAS DE CHOQUE INTERPLANETÁRIAS USANDO DIFERENTES JANELAS TEMPORAIS"
+    },
+
+    {
+        "name": "Helvecio Bezerra Leal Neto",
+        "email": "helvecio.neto@inpe.br",
+        "title": "IMPACTO DE MULTILIMIARES E CORREÇÃO VETORIAL PARA RASTREAMENTO DE SISTEMAS DE PRECIPITAÇÃO SOBRE A BACIA AMAZÔNICA USANDO TÉCNICAS BASEADAS EM CENTROIDES E GEOMETRIAS."
+    },
+
+    {
+        "name": "Saúl Sánchez Juárez",
+        "email": "saul.juarez@inpe.br",
+        "title": "DISTURBIOS IONOSFÉRICOS CO-SÍSMICOS OBSERVADOS PARA TERREMOTOS DE MAGNITUDES MW < 6,6"
+    },
+
+    {
+        "name": "Eduardo Rohde Eras",
+        "email": "eduardo.eras@inpe.br",
+        "title": "MODELAGEM DA TURBULÊNCIA BASEADO NA TEORIA DE TAYLOR PARA O MODELO BAM DO INPE"
+    },
+
+    {
+        "name": "João Pedro de Souza Silva",
+        "email": "jpgs301@gmail.com",
+        "title": "CLASSIFICAÇÃO DE REGIÕES ATIVAS COM MACHINE LEARNING"
+    },
+
+    {
+        "name": "Telmo dos Santos Klipp",
+        "email": "telmo.klipp@gmail.com",
+        "title": "MELHORIA NA ESTIMAÇÃO DO PERFIL SUPERIOR DE CONCENTRAÇÃO ELETRÔNICA E AVALIAÇÃO DE CONFIABILIDADE DO SISTEMA DE PREVISÃO IONOSFÉRICA DO INPE"
+    },
+
+    {
+        "name": "Luis Hiroshi",
+        "email": "luihiroshi6@gmail.com",
+        "title": "PROJECT D0UG"
+    },
+
+    {
+        "name": "Vanessa Colla Paspaltzis",
+        "email": "vpaspaltzis@gmail.com",
+        "title": "UMA ABORDAGEM USANDO REDES NEURAIS ARTIFICIAIS PARA A PREVISÃO DE CURTO PRAZO DE ALTURA DE ONDAS MARÍTIMAS EM REGIÃO PORTUÁRIA"
+    },
+
+    {
+        "name": "Tamara Raquel Da Silva",
+        "email": "tamara.raquel@aluno.ifsp.edu.br",
+        "title": "IDENTIFICAÇÃO E CLASSIFICAÇÃO DE CHOQUES INTERPLANETÁRIOS RÁPIDOS EM FRONTAIS E REVERSOS UTILIZANDO-SE REDES NEURAIS ARTIFICIAIS A PARTIR DE LEITURAS COM DADOS FALTANTES"
+    },
+
+    {
+        "name": "Felipe Pacheco de Almeida Euphrásio",
+        "email": "fepac_energias@hotmail.com",
+        "title": "USO DE REDES NEURAIS CONVOLUCIONAIS NA DETECÇÃO E RE-IDENTIFICAÇÃO DE VEÍCULOS A PARTIR DE IMAGENS DE MÚLTIPLOS DRONES"
     }
+
 ]
