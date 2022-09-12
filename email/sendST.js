@@ -61,7 +61,7 @@ for(let row of rows){
         to=email,
         bcc="uadrianoalmeida@gmail.com",
         cc="uadrianoalmeida@gmail.com",//"worcap@inpe.br",
-        subject="WorCAP 2022 - ST",
+        subject="WorCAP 2022 - Sessão Técnica",
         replacements={'name': name, 'title': title}, 
         filepath="./data/ST.html"
     );
