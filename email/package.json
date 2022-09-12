@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv": "^6.2.0",
+    "handlebars": "^4.7.7",
+    "nodemailer": "^6.7.8",
+    "nodemailer-express-handlebars": "^5.0.0",
+    "system-sleep": "^1.3.7"
+  }
+}
