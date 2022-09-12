@@ -5,7 +5,7 @@ const handlebars = require('handlebars');
 const { title } = require('process');
 // const config  = require('../data/subscriptions_worcap2022.json');
 const { GMAIL_USER, GMAIL_PASS } = process.env;
-const handle = fs.readFileSync('./data/test.json');//'./data/ST.json'
+const handle = fs.readFileSync('./data/ST.json');//'./data/ST.json'
 const rows = JSON.parse(handle);
 
 let readHTMLFile = function(path, callback) {
@@ -59,8 +59,8 @@ for(let row of rows){
     sendEmail(
         from="Arturo - WorCAP 2022",
         to=email,
-        bcc="uadrianoalmeida@gmail.com",
-        cc="uadrianoalmeida@gmail.com",//"worcap@inpe.br",
+        bcc="uadrianoalmeida@gmail.com,arturo66cta@gmail.com",
+        cc="worcap@inpe.br",//"worcap@inpe.br",
         subject="WorCAP 2022 - Sessão Técnica",
         replacements={'name': name, 'title': title}, 
         filepath="./data/ST.html"
